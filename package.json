@@ -1,10 +1,9 @@
 {
-  "name": "parrot-live",
+  "name": "gandalf-dance",
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "colors": "1.1.2",
@@ -14,9 +13,9 @@
     "nodemon": "1.18.7"
   },
   "author": {
-    "name": "Hugo Muller-Downing",
-    "email": "npmjs@hugo.sx",
-    "url": "hu.md"
+    "name": "Antoine Bagnaud",
+    "email": "contact@antoinebagnaud.me",
+    "url": "https://antoinebagnaud.me"
   },
   "license": "MIT"
 }
